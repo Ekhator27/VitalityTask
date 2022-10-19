@@ -1,0 +1,3 @@
+1. How long did you spend on the technical task?  40Min
+2. If you had more time, would you add anything to your solution? Yes
+3. What do you think is the most interesting trend in test automation? Page object, Cleaner code, Avoiding smells

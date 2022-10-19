@@ -1,0 +1,16 @@
+{
+  "AboutMe": {
+    "Title": "Automation tester",
+    "Experience": "4years",
+    "LanguageUsed": "C#",
+    "LanguageUsed2": "Java",
+    "LanguageUsed3": "PHP",
+    "WhereIHaveWorked": "DNA payment group",
+    "WhereIHaveWorked2": "",
+    "Capability1": "Able to create automation framework",
+    "Capability2": "Able to maintain existing automation framework",
+    "Capability3": "Very organised and can manage own workload",
+    "Hobby": "learning new tools and watching football",
+    "Nationality": "British"
+  }
+}
