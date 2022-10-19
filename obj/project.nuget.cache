@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BN9V3oBTet1wm2RjV8na/e3bPlrdPOGLLXSQ4S4MyULOd0kacAftergbsYCGPZE9nLg29A/uvTDlsVWz3lmFXA==",
+  "dgSpecHash": "3cS7r35e2re63ZxM1+JuChAgr25qBds+WF2zIGHT3C77oR+qV2vD5YaXoqciFu0OBkOe/ujMa6kdfI8c2GXILw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\source\\repos\\VitalityTask\\VitalityTask.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\VitalityTask\\VitalityTask.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\anglesharp\\0.17.1\\anglesharp.0.17.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",

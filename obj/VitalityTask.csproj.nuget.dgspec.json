@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\VitalityTask\\VitalityTask.csproj": {}
+    "C:\\Users\\User\\Desktop\\VitalityTask\\VitalityTask.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\VitalityTask\\VitalityTask.csproj": {
+    "C:\\Users\\User\\Desktop\\VitalityTask\\VitalityTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\VitalityTask\\VitalityTask.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\VitalityTask\\VitalityTask.csproj",
         "projectName": "VitalityTask",
-        "projectPath": "C:\\Users\\User\\source\\repos\\VitalityTask\\VitalityTask.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\VitalityTask\\VitalityTask.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\VitalityTask\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\VitalityTask\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
